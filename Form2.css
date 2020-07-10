@@ -1,0 +1,53 @@
+body{width:357px;margin-left:500px;padding:17px;}
+button.login2 {
+    width: 304px;
+    color: white;
+    background-color: #ff2222;
+    padding: 10px;
+    /* border-radius: 10%; */
+    cursor: pointer;border: none
+}
+
+.login1{margin-top: 10px;border: none}
+
+
+
+form {
+    width: 317px;
+    padding: 17px;
+    background: #4caf5087;
+    border-radius: 1%;
+}
+input#email {
+    width: 300px;
+    border:1px solid #f1f1f1;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;border: none
+}
+
+input#password {
+    width: 300px;
+    border:1px solid #f1f1f1;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;border: none
+}
+a {
+    /* text-align: right; */
+    float: right;
+    cursor: pointer;
+}
+
+button.cancelbtn {
+    background-color: #2196F3;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    cursor: pointer;border: none
+}
+
+.cancel {
+    margin-top: 10px;
+}
+.button{border: none;}
+h1{text-align:center;color:#1e546d}
